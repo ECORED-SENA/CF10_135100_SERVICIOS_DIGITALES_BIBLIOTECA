@@ -7,7 +7,12 @@
       .titulo-principal__numero
         span
           i.fas.fa-info
-      h1 Introducción
+      h1 Introducción'
+    p.mb-5(data-aos='fade-right') Aquí comienza el estudio del componente formativo #[b “Búsqueda y recolección de información bibliográfica]. Un módulo de estudio pensado para usted. Comience su ruta por los contenidos, visualizando con atención el vídeo que se muestra enseguida. 
+      span.fw-bold(style='color: #785549') ¡Adelante!
+      figure
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
 </template>
 

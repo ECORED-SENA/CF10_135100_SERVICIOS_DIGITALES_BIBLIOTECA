@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Búsqueda y recolección de información bibliográfica',
+    descripcionCurso:
+      'Este componente formativo aborda aspectos clave del proceso de búsqueda, clasificación y acceso a la información de valor. Mediante la asimilación de los contenidos, el aprendiz podrá interpretar su rol y nivel de participación dentro del flujo de proceso establecido, o establecer, para acceder a la información, clasificarla, reportarla y ofrecerla, dentro del marco del servicio bibliotecario.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -55,6 +56,27 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
+        titulo: 'Titulo de primer nivel',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Titulo de primer nivel',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Titulo de primer nivel',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
         titulo: 'Titulo de primer nivel',
         desarrolloContenidos: true,
       },
