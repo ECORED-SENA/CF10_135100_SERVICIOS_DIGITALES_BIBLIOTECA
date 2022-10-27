@@ -63,7 +63,7 @@
       p.mb-5(data-aos='fade-right') El siguiente video le muestra los aspectos más importantes sobre recursos de medición para reportes de información. Obsérvelo con atención y lleve registro de lo más destacado en su libre personal de apuntes:
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/KUhGJGXkBBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador 
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 5.1 Redacción y presentación de derechos de autor
@@ -76,6 +76,9 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 Los objetivos de las bibliotecas y del derecho de autor, concuerdan; los diferencia la forma como llevan a cabo la ejecución de sus propósitos. Las bibliotecas buscan con insistencia proporcionar y facilitar el acceso al conocimiento, otorgar incentivos para estimular la creación y que, de manera equitativa, exista difusión de las obras.
     p.mb-5(data-aos='fade-right') A continuación, asimile más y mejor los aspectos clave relativos a los derechos de autor. Procure asimilar cada concepto, elemento o acción que se propongan:
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/uKZZxlT4F5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .tarjeta.tarjeta-slyders.p-lg-4.p-1.px-lg-5.mb-5
       .tarjeta.bg-white.p-lg-5.p-2.mx-lg-5
         SlyderA(tipo='b')
@@ -206,7 +209,7 @@
     p.mb-5(data-aos='fade-right') Las siguientes, son las partes que deben integrar un reporte:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/-sGYYLbOCRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 5.3 Referencias y herramientas
