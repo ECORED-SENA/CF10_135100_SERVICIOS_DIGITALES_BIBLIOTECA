@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Acceso a la Información
+      h1 Tipos de uso de la información
     p.mb-5(data-aos='fade-right') La introducción de las TIC en las bibliotecas y su uso masivo ha generado la desaparición o desuso de algunas acciones tradicionales en cuanto al acceso, uso y disponibilidad de la información y propone, indirectamente, un salto o evolución de una biblioteca física a una biblioteca de servicios electrónicos y digitales.
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="zoom-in")
@@ -35,7 +35,9 @@
           h5.mb-2(style='color: #fd9827') ¿Y qué es la información?
           p.mb-0.text-white Es el conjunto organizado de datos relevantes para uno o más usuarios que utilizan, eficientemente, el conocimiento del mensaje.
       .col-lg-5.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema2/2.svg', alt='')
-    p.text-center En cuanto a los usos de la información, se destacan algunas generalidades que a continuación se enuncian.
+    h3(data-aos="fade-right") Los usos de la información
+    p.text-center.mb-4(data-aos="fade-right") En cuanto a los usos de la información, se destacan algunas generalidades que a continuación se enuncian.
+      br
       br
       |Recuerde tener presente y  llevar registro de ellas en su libreta personal de apuntes:
     .row.justify-content-center.mb-5

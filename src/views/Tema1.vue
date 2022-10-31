@@ -15,6 +15,8 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 El acceso a la información bibliográfica y documental refiere un proceso sistemático y secuencial de recolección, selección, clasificación, evaluación y análisis de contenidos del material impreso y gráfico, físico y/o virtual que servirá de fuente teórica, conceptual y/o metodológica para una investigación concreta.
+    h3 Generalidades importantes del acceso a la información
+    p.mb-5(data-aos='fade-right') El acceso a  la información está marcado por aspectos clave que formalizan y ajustan dicho proceso. A continuación, se mencionan las generalidades más destacadas qe usted debe tener en cuenta:
     .tarjeta.tarjeta-slyders.p-lg-4.p-1.px-lg-5
       .tarjeta.bg-white.p-5.mx-lg-5
         SlyderA(tipo='b')

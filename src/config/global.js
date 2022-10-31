@@ -293,7 +293,7 @@ export default {
     {
       referencia:
         'Eldredge, J. (2006). Evidence-based librarianship: an overview. Publimedcentral. ',
-      link: 'http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=35250',
+      link: 'https://pubmed.ncbi.nlm.nih.gov/11055296/',
     },
   ],
   creditos: {
@@ -407,7 +407,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Yeny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

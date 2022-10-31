@@ -15,6 +15,7 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Además, en ocasiones, el informe puede contener soluciones propuestas a los problemas, los métodos, etapas y procesos mediante los cuales se han obtenido los datos para encontrar esa solución o recomendaciones para lograrlo.
+    h3(data-aos="fade-right") Elaboración de informes
     p.mb-5(data-aos='fade-right').text-center Sobre los informes, conozca algunos elementos destacados, como:
     .row.justify-content-center.mb-5
       .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema6/2.png', alt='')

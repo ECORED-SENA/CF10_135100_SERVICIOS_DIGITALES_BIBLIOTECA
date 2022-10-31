@@ -18,7 +18,7 @@
               p.mb-0 Las bibliotecas desempeñan un importante papel en el progreso y el mantenimiento de una sociedad competitiva al ofrecer a cada persona la posibilidad de acceso a cualquier tipo de información, y conocimiento.
       .row.justify-content-center.mb-5
         .col-lg-7(data-aos="fade-right")
-          p.mb-5(data-aos='fade-right') Al ser un servicio público, abierto a todos, la biblioteca desempeña funciones vitales, como:
+          p.mb-5(data-aos='fade-right') Al desempeñar su función en estos ámbitos tan fundamentales, la biblioteca: 
           ul.lista-ul--color
             li.mb-0
               i.fas.fa-angle-right(style="color:#F9A825")
@@ -75,10 +75,11 @@
         )
         .bloque-texto-g__texto.p-4
           p.mb-0 Los objetivos de las bibliotecas y del derecho de autor, concuerdan; los diferencia la forma como llevan a cabo la ejecución de sus propósitos. Las bibliotecas buscan con insistencia proporcionar y facilitar el acceso al conocimiento, otorgar incentivos para estimular la creación y que, de manera equitativa, exista difusión de las obras.
-    p.mb-5(data-aos='fade-right') A continuación, asimile más y mejor los aspectos clave relativos a los derechos de autor. Procure asimilar cada concepto, elemento o acción que se propongan:
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/uKZZxlT4F5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    h3(data-aos="fade-right") Derechos de autor y propiedad intelectual
+    p.mb-5(data-aos='fade-right') A continuación, asimile más y mejor los aspectos clave relativos a los derechos de autor. Procure asimilar cada concepto, elemento o acción que se propongan:
     .tarjeta.tarjeta-slyders.p-lg-4.p-1.px-lg-5.mb-5
       .tarjeta.bg-white.p-lg-5.p-2.mx-lg-5
         SlyderA(tipo='b')
@@ -125,6 +126,7 @@
       br
       br
       |Entre los tipos de obras más comunes y reconocidos se encuentran:
+    h3(data-aos="fade-right") Clases de obras 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
         TabsA.color-acento-contenido.mb-5
