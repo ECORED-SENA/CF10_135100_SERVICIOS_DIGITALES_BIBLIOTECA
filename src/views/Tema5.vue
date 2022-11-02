@@ -43,8 +43,10 @@
               | Propicia autonomía en las personas, enriqueciendo y mejorando su vida y la de la comunidad.
         .col-lg-5.col-md-6(data-aos="fade-left")
           img.img-fluid(src="@/assets/curso/temas/tema5/2.svg")
-      p.text-center En lo relacionado con directrices para bibliotecas y servicios de información, tenga presente:
-      img(src='@/assets/curso/temas/tema5/titulo.svg', alt='' style='width: 314px').mb-3
+      .titulo-circulo-verde.mb-4
+        .titulo-circulo-verde__circulo: img(src='@/assets/curso/temas/tema5/circulo.svg', alt='')
+        h4.mb-0 Registro bibliográfico
+
       p.mb-5(data-aos='fade-right') La biblioteca debe clasificar y catalogar sus fondos de conformidad con las normas bibliográficas internacionales o nacionales aceptadas. De este modo se agiliza su incorporación de la colección en redes más amplias.
       .row.justify-content-center.mb-5
         .col-lg-10
@@ -78,6 +80,21 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/uKZZxlT4F5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .tarjeta.bg-cta.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema2/4.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.text-white.mb-0 Principios básicos del derecho de autor y los derechos conexos.
+
+                .col-auto.mb-3.mb-sm-0
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/anexo3.pdf')" target="_blank" type="application/pdf")
+                    span Descargar
+                    i.fas.fa-file
     h3(data-aos="fade-right") Derechos de autor y propiedad intelectual
     p.mb-5(data-aos='fade-right') A continuación, asimile más y mejor los aspectos clave relativos a los derechos de autor. Procure asimilar cada concepto, elemento o acción que se propongan:
     .tarjeta.tarjeta-slyders.p-lg-4.p-1.px-lg-5.mb-5
@@ -185,7 +202,6 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-white.mb-0 Profundice en los elementos más fundamentales sobre derechos de autor y propiedad intelectual, explorando el contenido del siguiente enlace:
-                  span.fw-bold(style='color: #fd9827') https://www.mondragon.edu/es/web/biblioteka/propiedad-intelectual
                 .col-auto.mb-3.mb-sm-0
                   a.boton.color-acento-botones(href='https://www.mondragon.edu/es/web/biblioteka/propiedad-intelectual' target="_blank" type="")
                     span Enlace web 
@@ -231,13 +247,13 @@
           img(src='@/assets/curso/temas/tema5/19.jpg', alt='')
           .p-3.text-white
             h5 ENDNOTE
-            p Software de gestión de referencias vinculado a Web of Science. Es un recurso suscrito en España por la FECYT para las universidades y centros de investigación.
+            p #[em Software] de gestión de referencias vinculado a #[em Web of Science]. Es un recurso suscrito en España por la FECYT para las universidades y centros de investigación.
       .col-lg-4.mb-lg-0.mb-3
         div(style="background-color: #fba442").h-100
           img(src='@/assets/curso/temas/tema5/20.jpg', alt='')
           .p-3
             h5 ZOTERO
-            p Ofrece un software libre para la gestión de referencias bibliográficas. Vinculado con el navegador Firefox, permite importar los datos directamente desde las páginas web visualizadas en el momento.
+            p Ofrece un #[em software] libre para la gestión de referencias bibliográficas. Vinculado con el navegador Firefox, permite importar los datos directamente desde las páginas #[em web] visualizadas en el momento.
     .tarjeta.bg-cta.p-3.mb-4
       .row.justify-content-center
         .col-lg-1.col-3: img(src='@/assets/curso/temas/tema2/4.svg', alt='')
@@ -255,9 +271,6 @@
               .row.justify-content-between.align-items-center
                 .col-9.mb-3.mb-sm-0
                   p.text-white.mb-0 Comprenda, de manera integral, sobre citas y referencias bibliográficas, visitando los enlaces que se muestran enseguida:
-                  span.fw-bold(style='color: #fd9827') https://www.youtube.com/watch?v=v1TuBknavkI
-                  br
-                  span.fw-bold(style='color: #fd9827') https://www.youtube.com/watch?v=4CaVpuyFeB4
                 .col.mb-3.mb-sm-0
                   a.boton.color-acento-botones.mb-4(href='https://www.youtube.com/watch?v=v1TuBknavkI' target="_blank" type="")
                     span Enlace web 

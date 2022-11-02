@@ -189,13 +189,6 @@ export default {
         'https://bibliotecanacional.gov.co/es-co/formacion/caja-de-herramientas/Documents/guia%20de%20derechos%20de%20autor%20para%20bibliotecas.pdf',
     },
     {
-      tema: 'Redacción y presentación de derechos de autor',
-      referencia:
-        'Centro de Recursos para el Aprendizaje y la Investigación (s.f.). Derechos de autor y propiedad intelectual. Mondragon. ',
-      tipo: 'Documento pdf',
-      link: 'https://www.mondragon.edu/es/web/biblioteka/propiedad-intelectual',
-    },
-    {
       tema: 'Referencias y herramientas',
       referencia:
         'Bibliotecas UNED (2020). Principales herramientas para la gestión de referencias bibliográficas. [Video]. Youtube. ',

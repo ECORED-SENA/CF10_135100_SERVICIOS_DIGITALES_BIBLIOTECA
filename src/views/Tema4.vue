@@ -99,11 +99,10 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     p.text-white.mb-0 Amplíe su conocimiento de documentos y normas de regulación de las unidades de información, estudiando con atención el contenido del siguiente archivo:
-                    span.fw-bold(style='color: #fd9827') Anexo_1_NormasUnidadesInformacion
                   .col-auto.mb-3.mb-sm-0
                     a.boton.color-acento-botones(:href="obtenerLink('downloads/anexo1.pdf')" target="_blank" type="application/pdf")
-                      span Enlace web 
-                      i.fas.fa-link
+                      span Descargar
+                      i.fas.fa-file
 </template>
 
 <script>

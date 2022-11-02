@@ -63,7 +63,6 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-white.mb-0 Amplíe conceptos y saberes sobre usos de la información, explorando el contenido del siguiente enlace:
-                  span.fw-bold(style='color: #fd9827') https://concepto.de/informacion/#ixzz7fZtUQLQ9
                 .col-auto.mb-3.mb-sm-0
                   a.boton.color-acento-botones(href='https://concepto.de/informacion/#ixzz7fZtUQLQ9' target="_blank" type="")
                     span Enlace web 
