@@ -175,14 +175,6 @@ export default {
     {
       tema: 'Redacción y presentación de derechos de autor',
       referencia:
-        'Pabón, J. (2012). Guía de Derechos de Autor para Bibliotecas. [Web log post]. Slideshare. ',
-      tipo: 'Blog',
-      link:
-        'https://es.slideshare.net/luisdaniel754365/tesis-daniel-chionglibqualunmsm',
-    },
-    {
-      tema: 'Redacción y presentación de derechos de autor',
-      referencia:
         'Pabón, J. (s.f.). Guía de derecho de autor para bibliotecas. ',
       tipo: 'Documento pdf',
       link:

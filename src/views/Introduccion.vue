@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mb-5(data-aos='fade-right') Aquí comienza el estudio del componente formativo #[b “Búsqueda y recolección de información bibliográfica]. Un módulo de estudio pensado para usted. Comience su ruta por los contenidos, visualizando con atención el vídeo que se muestra enseguida. 
+    p.mb-5(data-aos='fade-right') Aquí comienza el estudio del componente formativo #[b ❝Búsqueda y recolección de información bibliográfica❞]. Un módulo de estudio pensado para usted. Comience su ruta por los contenidos, visualizando con atención el vídeo que se muestra enseguida. 
       span.fw-bold(style='color: #785549') ¡Adelante!
       figure
         .video
