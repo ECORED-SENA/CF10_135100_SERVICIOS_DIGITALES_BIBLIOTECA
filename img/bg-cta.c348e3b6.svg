@@ -1,0 +1,11 @@
+<svg id="bg-cta" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1028.211" height="136.33" viewBox="0 0 1028.211 136.33">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_35327" data-name="Rectangle 35327" width="105" height="64" fill="#785549"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_35326" data-name="Rectangle 35326" width="1028.211" height="136.33" rx="12" fill="#31313c"/>
+  <g id="Mask_Group_98" data-name="Mask Group 98" transform="translate(0 116.33) rotate(-90)" clip-path="url(#clip-path)">
+    <path id="Trazado_151731" data-name="Trazado 151731" d="M49.77,20.956A28.814,28.814,0,1,1,20.956,49.77,28.847,28.847,0,0,1,49.77,20.956M49.77,0A49.77,49.77,0,1,0,99.54,49.77,49.77,49.77,0,0,0,49.77,0Z" transform="translate(2.386 -41.786)" fill="#785549"/>
+  </g>
+</svg>
